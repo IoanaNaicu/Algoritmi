@@ -17,5 +17,5 @@ Print a,b,c sorted
 			print a, c, b
 	    else
 		print a, b, c
-5.End.
+5.End
 	
