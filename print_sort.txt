@@ -1,0 +1,21 @@
+Print a,b,c sorted
+1.Start
+2.Read a, b, c
+3.if (a > b) then
+	if(a > c) then
+		if(b > c) then 
+				print c, b, a
+			  else
+				print b, c, a
+		  else
+		      print b,a,c
+
+4.if (b > c) then
+	if (a > c) then
+			print c, a, b
+		   else
+			print a, c, b
+	    else
+		print a, b, c
+5.End.
+	
