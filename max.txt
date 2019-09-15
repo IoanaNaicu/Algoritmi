@@ -11,7 +11,7 @@ Max(a,b,c)
 		print b
 	     else
 		print c
-5.End.
+5.End
 
 
 
