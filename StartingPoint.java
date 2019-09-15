@@ -17,6 +17,7 @@ public class StartingPoint {
             System.out.println("c e maxim");
         }
 
+        //daca 2 sunt maxime(egale), printeaza ambele
 //        int max;
 //        if (a > b) {
 //            if (a > c) {
